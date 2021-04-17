@@ -1,4 +1,5 @@
-# Multiclass-classification-using-Deep-Learning
+# Multiclass-classification-using-Keras
+
 
 The original dataset can be obtained in:
 https://1drv.ms/u/s!Anz-hH98oKVkk0li4EsOuZLtRYNe?e=wbycUw
